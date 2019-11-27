@@ -1,2 +1,3 @@
-# php-ext
-The kernel of learning
+# php-kernel
+
+The PHP kernel of learning
