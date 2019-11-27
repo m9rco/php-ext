@@ -1,0 +1,4 @@
+[submodule "php-7.0.12"]
+	path = php-7.0.12
+	url = https://github.com/php/php-src.git
+	branch = PHP-7.0.12
